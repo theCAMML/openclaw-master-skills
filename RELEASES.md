@@ -2,6 +2,20 @@
 
 每次更新的详细发布说明。
 
+## v0.10.0 — 2026-04-20
+
+### 本周新增 1 个 Skill（总计 561）
+
+本周扫描来源：GitHub `openclaw-skill` topic（30+ 个仓库）+ skills.sh top 200 + ClaWHub CLI
+
+| Skill | 描述 |
+|---|---|
+| `caveman` | Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy. Supports intensity levels: lite, full, ultra, wenyan-lite, wenyan-full, wenyan-ultra. |
+
+来源：skills.sh → juliusbrussee/caveman
+
+---
+
 ## v0.9.0 — 2026-04-13
 
 ### 本周新增 0 个 Skills（总计 560）

@@ -5,7 +5,7 @@
 <a href="https://myclaw.ai">
   <img src="https://img.shields.io/badge/Powered%20by-MyClaw.ai-blue?style=for-the-badge" alt="Powered by MyClaw.ai" />
 </a>
-<img src="https://img.shields.io/badge/Skills-387%2B-orange?style=for-the-badge" alt="387+ Skills" />
+<img src="https://img.shields.io/badge/Skills-561%2B-orange?style=for-the-badge" alt="561+ Skills" />
 <img src="https://img.shields.io/badge/Updated-Weekly-green?style=for-the-badge" alt="Weekly Updates" />
 
 **Languages:**
@@ -34,7 +34,7 @@ git clone https://github.com/LeoYeAI/openclaw-master-skills.git
 cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 ```
 
-## 📦 Skill Index (387 skills)
+## 📦 Skill Index (561 skills)
 
 ### 🤖 AI & LLM Tools (50)
 
@@ -377,7 +377,7 @@ cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 | [`sonoscli`](skills/sonoscli/) | Control Sonos speakers (discover/status/play/volume/group). |
 | [`spotify-player`](skills/spotify-player/) | Terminal Spotify playback/search via spogo (preferred) or spotify_player. |
 
-### 🧠 Memory & Agent Enhancement (32)
+### 🧠 Memory & Agent Enhancement (33)
 
 | Skill | Description |
 |---|---|
@@ -387,6 +387,7 @@ cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 | [`answeroverflow`](skills/answeroverflow/) | Search indexed Discord community discussions via Answer Overflow. Find solutions to coding problems, |
 | [`auto-updater`](skills/auto-updater/) | Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates |
 | [`capability-evolver`](skills/capability-evolver/) | A self-evolution engine for AI agents. Analyzes runtime history to identify improvements and applies |
+| [`caveman`](skills/caveman/) | Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy. |
 | [`clawddocs`](skills/clawddocs/) | Clawdbot documentation expert with decision tree navigation, search scripts, doc fetching, version t |
 | [`clawdhub`](skills/clawdhub/) | Use the ClawdHub CLI to search, install, update, and publish agent skills from clawdhub.com. Use whe |
 | [`clawsec`](skills/clawsec/) |  |
