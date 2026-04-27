@@ -5,6 +5,14 @@ Updated every Monday.
 
 ---
 
+## [v0.11.0] — 2026-04-27
+
+### 🚀 周更：561 精选 Skills（+0 本周新增，稳定维护周）
+
+来源：GitHub `openclaw-skill` topic scan + skills.sh top 200 + ClaWHub CLI。候选仓库均已收录或缺失有效 SKILL.md。详见 RELEASES.md。
+
+---
+
 ## [v0.10.0] — 2026-04-20
 
 ### 🚀 周更：561 精选 Skills（+1 本周新增）

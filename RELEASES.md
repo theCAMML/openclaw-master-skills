@@ -2,6 +2,26 @@
 
 每次更新的详细发布说明。
 
+## v0.11.0 — 2026-04-27
+
+### 本周新增 0 个 Skills（总计 561）
+
+本周扫描来源：GitHub `openclaw-skill` topic（30+ 个仓库）+ skills.sh top 200 + ClaWHub CLI
+
+扫描结果：所有候选仓库均已收录或不含有效 SKILL.md。无净新增。当前收录 **561 个精选 Skills**，稳定维护周。
+
+本周扫描覆盖到的活跃新仓库（已记录，等待其作者补充 SKILL.md 后再次评估）：
+- `RelayPlane/proxy` — AI agent 代理与成本路由
+- `Evol-ai/SkillCompass` — Skill 质量评估
+- `Decodo/decodo-openclaw-skill` — Web Scraping API skill
+- `slhleosun/EvoClaw` — SOUL 演化框架
+- `0xNyk/xint` — X/Twitter 智能 CLI
+- `christinminor459/OnionClaw` — Tor 网络访问
+- `ZeroLu/Ultimate-AI-Media-Generator-Skill` — 图像/视频生成
+- `iblai/iblai-openclaw-router` — 模型路由省钱
+
+---
+
 ## v0.10.0 — 2026-04-20
 
 ### 本周新增 1 个 Skill（总计 561）
