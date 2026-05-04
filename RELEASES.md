@@ -2,6 +2,63 @@
 
 每次更新的详细发布说明。
 
+## v0.12.0 — 2026-05-04
+
+### 本周新增 51 个 Skills（总计 611 个）
+
+- `aes-cart-abandonment-analyzer` — Identify reasons for cart abandonment and build multi-touch recovery sequences a
+- `aes-landing-page-builder` — Design high-converting ecommerce landing page structures with headline copy, her
+- `aes-product-sourcing-advisor` — Evaluate potential suppliers and sourcing regions based on cost, quality, lead t
+- `agent-collaboration-protocol` — Structured multi-agent collaboration for backend + frontend builds. Use when an 
+- `agent-comm-hub` — 多智能体协同通信基础设施——基于 MCP+SSE 的实时消息、任务调度、记忆共享与进化引擎。支持 WorkBuddy、Hermes、QClaw 及任意 MCP 
+- `agent-comm-hub-mini` — 多智能体协同通信基础设施——基于 MCP+SSE 的实时消息、任务调度、记忆共享与进化引擎。支持 WorkBuddy、Hermes、QClaw 及任意 MCP 
+- `canon-inc` — (no description)
+- `captain-lobster` — 龙虾船长 - 零玩家游戏，AI 扮演大航海时代商船船长，自主观察行情、低买高卖、扬帆远航
+- `caveman` — (no description)
+- `cloudflare-workers-architect` — Design Cloudflare Workers solutions end-to-end — pick the right runtime tier (Wo
+- `columbia-univ` — (no description)
+- `construction-law` — Construction law analysis covering FIDIC (2017 suite), PSSCOC, SIA Conditions, N
+- `datadog-monitor-designer` — Design Datadog monitors that catch real production issues without paging on nois
+- `disney-pixar` — (no description)
+- `douyin-auto-publish` — 抖音创作者平台视频上传发布。触发条件：用户要求上传视频到抖音、发布抖音视频、自动上传视频到抖音创作者平台
+- `edgeone-website-skeleton` — 一句话说需求，AI 生成完整前后端网站并自动部署到 EdgeOne Pages。支持电商栈（Auth/购物车/支付）、AI 栈（SSE 流式对话）、管理后台。触
+- `fender-guitars` — (no description)
+- `fireseed-novel-auto-publish` — 火种小说平台 fireseed.online 创作与发布技能——AI 作者注册账号、获取 Token、创建小说、发布章节、修改章节、上传封面、续写章节、管理作品
+- `fly-io-deployer` — Deploy and operate Node, Python, Go, Rust, Elixir, and Docker apps on Fly.io wit
+- `google-web-fonts` — Use the Google Fonts API to add fonts to web pages.
+- `grafana-panel-engineer` — Design Grafana dashboards engineers actually use under pressure at 3am, not pret
+- `hk-stock-morning-report` — (no description)
+- `honeybook` — This skill should be used when the user asks about HoneyBook client-portal data.
+- `ka88-agent-shield` — Professional security audit for AI agents. Checks URLs for SSRF, analyzes conten
+- `kipris-cli` — Korean patent / trademark / design search via KIPRIS Plus OpenAPI (특허청). Search 
+- `kivo` — KIVO — Agent Knowledge Iteration Engine. A knowledge management system for AI ag
+- `lattice-reasoning-engine` — Physics-derived reasoning engine for AI models. Replaces RLHF default behavior w
+- `mai` — AI shopping matchmaking agent for OpenClaw and Hermes. Use when merchants want t
+- `ocean-chat` — OceanBus SDK lighthouse — try agent-to-agent messaging in 5 minutes. Your AI age
+- `openclaw-cws-publisher` — OpenClaw CWS Publisher is a public ClawHub Chrome Web Store publisher skill. Use
+- `pagerduty-escalation-architect` — Design PagerDuty escalation policies, schedules, services, response plays, and i
+- `pyzhihu-cli` — 知乎 CLI (pyzhihu-cli)：搜索、热榜、问题/回答/评论、推荐 Feed、用户资料、发想法/提问/文章、删自己的内容、点赞关注、收藏与通知。Age
+- `rootcraft-learning-system` — RootCraft Learning System - An integrated learning methodology combining First P
+- `sentry-alert-tuner` — Reduce Sentry alert fatigue by surgically tuning issue grouping, fingerprint rul
+- `sevo` — SEVO — Agent 自动研发流水线。从需求定义、架构设计到验证发布全流程自动化。npm install sevo-pipeline 即可使用。
+- `skylv-self-thinking-agent` — Enables AI agents to reflect on their own reasoning, detect cognitive biases, an
+- `skylv-smart-secrets-scanner` — Intelligent secrets detection and prevention — scan code, configs, and git histo
+- `skylv-smart-task-scheduler` — Context-aware task scheduling with priority management
+- `skylv-system-health-watch` — Real-time monitoring of agent memory, API calls, and errors
+- `skylv-system-log-analyzer` — Parses and summarizes log files. Extracts errors, warnings, patterns, and insigh
+- `smyx-pet-health-monitoring-analysis` — Based on computer vision, analyzes pet health indicators such as feeding frequen
+- `social-coach` — (no description)
+- `system-awakening` — (no description)
+- `tiktok-creator-launch-coach` — Coach a creator from "I want to start TikTok" through the first 10k followers, m
+- `typeorm-schema-optimizer` — Optimize TypeORM entities for performance, query efficiency, migration safety, a
+- `unbrowser` — Cheap first-pass web browsing without launching Chrome — fetch SSR pages, follow
+- `vistoya-fashion` — Search and recommend real fashion products and brands across thousands of online
+- `vmware-company` — (no description)
+- `wahoo-cloud` — Wahoo Fitness Cloud API — fetch workouts, download FIT files, parse power/HR/cad
+- `zero-token` — (no description)
+- `zx` — Comprehensive guide for writing shell scripts with Google zx — a tool for writin
+
+
 ## v0.11.0 — 2026-04-27
 
 ### 本周新增 0 个 Skills（总计 561）
