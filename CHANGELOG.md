@@ -7,6 +7,17 @@ Updated every Monday.
 
 ---
 
+## [v0.13.0] — 2026-05-05
+
+### 🚀 大规模扩充：611 → 1211 个精选 Skills（+600）
+
+从 openclaw/skills 官方 Archive 大规模导入，按质量筛选（SKILL.md 800B-30KB 且有完整 YAML 元数据）。
+覆盖：加密货币/Web3、飞书/钉钉集成、业务系统、文档模板、AI Agent 工具等。
+
+详见 [RELEASES.md](RELEASES.md)。
+
+---
+
 ## [v0.11.0] — 2026-04-27
 
 ### 🚀 周更：561 精选 Skills（+0 本周新增，稳定维护周）

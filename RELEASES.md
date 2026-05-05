@@ -2,6 +2,59 @@
 
 每次更新的详细发布说明。
 
+---
+
+## v0.13.0 — 2026-05-05
+
+### 🚀 大规模扩充：611 → 1211 个精选 Skills（+600）
+
+来源：openclaw/skills 官方 Archive (⭐3,600+) — 按质量筛选（SKILL.md 800B-30KB 且有完整 YAML 元数据）
+
+#### 覆盖领域
+- 加密货币 / Web3 / DeFi / 交易机器人
+- 飞书 / 钉钉 / 企业微信 集成
+- 业务系统（freelance、performance engineering、legal docs）
+- 文档模板 / PPT 设计 / OCR
+- 邮件 / 客服 / CRM
+- 数据分析 / 财务报表 / 股票
+- AI 工具 / Agent 协作 / 模型管理
+
+#### 部分新增亮点（前 30 个）
+- `0codekit`
+- `13-day-sprint-method`
+- `academic-deep-research-1-0-0`
+- `accessibility`
+- `ad-ready`
+- `adb-claw`
+- `add-newcli-provider`
+- `admapix`
+- `adme-property-predictor`
+- `afrexai-agent-engineering`
+- `afrexai-api-architect`
+- `afrexai-career-accelerator`
+- `afrexai-construction-estimator`
+- `afrexai-conversion-copywriting`
+- `afrexai-copywriting-mastery`
+- `afrexai-email-marketing`
+- `afrexai-event-planner`
+- `afrexai-founder-os`
+- `afrexai-freelance-empire`
+- `afrexai-performance-engineering`
+- `afrexai-personal-finance`
+- `afrexai-product-manager`
+- `afrexai-react-production`
+- `afrexai-sales-playbook`
+- `afrexai-spreadsheet-master`
+- `afrexai-technical-docs`
+- `afrexai-vibe-coding`
+- `agent-avengers`
+- `agent-browser-5`
+- `agent-browser-6`
+
+详细列表见 GitHub repo skills/ 目录。
+
+---
+
 ## v0.12.0 — 2026-05-04
 
 ### 本周新增 51 个 Skills（总计 611 个）

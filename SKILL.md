@@ -1,13 +1,13 @@
 ---
 name: openclaw-master-skills
-description: "A curated collection of 560+ best OpenClaw skills — AI tools, productivity, marketing, frontend, mobile, backend, DevOps and more. Weekly updated by MyClaw.ai — Powered by MyClaw.ai"
+description: "A curated collection of 11211+ best OpenClaw skills — AI tools, productivity, marketing, frontend, mobile, backend, DevOps and more. Weekly updated by MyClaw.ai — Powered by MyClaw.ai"
 metadata:
   openclaw: {}
 ---
 
 # OpenClaw Master Skills
 
-A curated, weekly-updated collection of **560+ best skills** for OpenClaw agents.
+A curated, weekly-updated collection of **11211+ best skills** for OpenClaw agents.
 
 ## Categories
 
