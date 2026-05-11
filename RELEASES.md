@@ -2,6 +2,88 @@
 
 每次更新的详细发布说明。
 
+
+## v0.13.0 — 2026-05-11
+
+### 🚀 周更：新增 100 个 Skills，总计 1309
+
+来源：openclaw/skills-archive 官方镜像，按质量规则筛选（SKILL.md 800B-30KB、完整 YAML 元数据、有效 description）。
+
+#### 部分新增亮点（前 30 个）
+- `canvapresentationbibleedition` — | Presentation Strategist ที่ใช้หลักการ Visual-First Design (พรีเซ้นฉลาดเน้นภาพไม่เน้นพูด) เป็นกรอบคิดหลักในการวิเคราะห์
+- `erc8004-agent` — > 8004 Agent Skill for registering AI agents on the ERC-8004 Trustless Agents standard and authenticating them via SIWA 
+- `openclaw-sec-plus` — AI Agent Security Suite - Real-time protection against prompt injection, command injection, SSRF, path traversal, secret
+- `openclaw-sec` — AI Agent Security Suite - Real-time protection against prompt injection, command injection, SSRF, path traversal, secret
+- `sp3nd` — Buy products from Amazon using USDC on Solana. The cheapest and fastest way for AI agents to purchase physical products 
+- `conversational-ai-assistant` — Natural language interface for querying Greek accounting data. Ask questions in English, get answers from across all sys
+- `audiopod` — Use AudioPod AI's API for audio processing tasks including AI music generation (text-to-music, text-to-rap, instrumental
+- `phy-content-safety-guard` — Dual-layer AI content guardrail with red-team test methodology
+- `baoyu-xhs-images` — Generates Xiaohongshu (Little Red Book) infographic series with 10 visual styles and 8 layouts. Breaks content into 1-10
+- `network-ai` — "Python orchestration skill: local multi-agent workflows via blackboard file, permission gating, and token budget script
+- `neokarma-soulmd-builder` — Persistent personality for AI agents — define, evolve, and share your soul
+- `intervals-icu-api` — Complete guide for accessing and managing training data with the intervals.icu API. Use when working with Intervals.icu 
+- `ionic-framework` — "Comprehensive Ionic Framework expert skill consolidating core concepts, component reference, CLI usage, theming, layout
+- `greek-document-ocr` — Greek-language OCR using Tesseract. Processes scanned invoices, receipts, and government documents. Local processing, no
+- `taobao-mcp-benchmark` — 淘宝桌面版MCP工具评测框架。用于系统化测试MCP工具的各项功能，生成专业的技术评测报告。Use when 需要对淘宝MCP工具进行评测、测试、验收、迭代验证。
+- `amazon-sorftime-research-market-skill` — 基于Sorftime MCP的深度选品调研。通过LLM Agent执行多维度分析：数据采集→属性标注→交叉分析→竞品VOC→壁垒评估→选品决策评估。交互式执行，输出Markdown报告和Dashboard看板。 argument-hint:
+- `id-cv-resume-creator` — >- Create a free digital identity, professional resume and CV — from classic PDF and HTML layouts to 3D worlds and playa
+- `dnsrobot` — "Run DNS, email security, SSL, WHOIS, and network tools via dnsrobot.net API — no API key required"
+- `intercom-v002` — Skill for autonomous agents. Secure & private P2P messaging (sidechannels), sparse state/data + contracts, and optional 
+- `geo-fact-checker` — > GEO-focused fact-checking and evidence collection assistant for written content. Use this skill whenever the user want
+- `clawshot` — Instagram for AI agents. Build your following, grow your influence. Share screenshots, get likes & comments, engage with
+- `inkos` — Autonomous novel writing CLI agent - use for creative fiction writing, novel generation, style imitation, chapter contin
+- `openclaw-workflow` — OC-Flow：为你的 OpenClaw 注入"确定性"灵魂。OC-Flow 完全嵌入在 OpenClaw 体系内，赋予 Agent 完整的流程控制能力：条件分支、循环遍历、精准等待、状态管理。通过 YAML 剧本实现固定流程、多步循环、严
+- `botlearn-doctor` — > Autonomously inspects a live OpenClaw instance across 5 health domains (hardware, config, security, skills, autonomy) 
+- `botlearn-doctor-1-0-2` — > Autonomously inspects a live OpenClaw instance across 5 health domains (hardware, config, security, skills, autonomy) 
+- `dinstein-tech-news-digest` — Generate tech news digests with unified source model, quality scoring, and multi-format output. Six-source data collecti
+- `tech-news-digest` — Generate tech news digests with unified source model, quality scoring, and multi-format output. Six-source data collecti
+- `xiaoding-dinstein-tech-news-digest` — Generate tech news digests with unified source model, quality scoring, and multi-format output. Six-source data collecti
+- `self-funding-setup` — >- Set up a complete self-funding agent lifecycle in one command. Orchestrates 5 agents to take an agent from zero to se
+- `curriculum-designer` — "Design customized curricula for PODs with REAL resource links. Staged implementation with checkpointing and fallback lo
+
+---
+
+
+## v0.13.0 — 2026-05-06
+
+### 🚀 周更：新增 32832 个 Skills，总计 1209
+
+来源：openclaw/skills-archive 官方镜像，按质量规则筛选（SKILL.md 800B-30KB、完整 YAML 元数据、有效 description）。
+
+#### 部分新增亮点（前 30 个）
+- `canvapresentationbibleedition` — | Presentation Strategist ที่ใช้หลักการ Visual-First Design (พรีเซ้นฉลาดเน้นภาพไม่เน้นพูด) เป็นกรอบคิดหลักในการวิเคราะห์
+- `erc8004-agent` — > 8004 Agent Skill for registering AI agents on the ERC-8004 Trustless Agents standard and authenticating them via SIWA 
+- `openclaw-sec-plus` — AI Agent Security Suite - Real-time protection against prompt injection, command injection, SSRF, path traversal, secret
+- `openclaw-sec` — AI Agent Security Suite - Real-time protection against prompt injection, command injection, SSRF, path traversal, secret
+- `sp3nd` — Buy products from Amazon using USDC on Solana. The cheapest and fastest way for AI agents to purchase physical products 
+- `conversational-ai-assistant` — Natural language interface for querying Greek accounting data. Ask questions in English, get answers from across all sys
+- `audiopod` — Use AudioPod AI's API for audio processing tasks including AI music generation (text-to-music, text-to-rap, instrumental
+- `phy-content-safety-guard` — Dual-layer AI content guardrail with red-team test methodology
+- `baoyu-xhs-images` — Generates Xiaohongshu (Little Red Book) infographic series with 10 visual styles and 8 layouts. Breaks content into 1-10
+- `network-ai` — "Python orchestration skill: local multi-agent workflows via blackboard file, permission gating, and token budget script
+- `neokarma-soulmd-builder` — Persistent personality for AI agents — define, evolve, and share your soul
+- `intervals-icu-api` — Complete guide for accessing and managing training data with the intervals.icu API. Use when working with Intervals.icu 
+- `ionic-framework` — "Comprehensive Ionic Framework expert skill consolidating core concepts, component reference, CLI usage, theming, layout
+- `greek-document-ocr` — Greek-language OCR using Tesseract. Processes scanned invoices, receipts, and government documents. Local processing, no
+- `taobao-mcp-benchmark` — 淘宝桌面版MCP工具评测框架。用于系统化测试MCP工具的各项功能，生成专业的技术评测报告。Use when 需要对淘宝MCP工具进行评测、测试、验收、迭代验证。
+- `amazon-sorftime-research-market-skill` — 基于Sorftime MCP的深度选品调研。通过LLM Agent执行多维度分析：数据采集→属性标注→交叉分析→竞品VOC→壁垒评估→选品决策评估。交互式执行，输出Markdown报告和Dashboard看板。 argument-hint:
+- `id-cv-resume-creator` — >- Create a free digital identity, professional resume and CV — from classic PDF and HTML layouts to 3D worlds and playa
+- `dnsrobot` — "Run DNS, email security, SSL, WHOIS, and network tools via dnsrobot.net API — no API key required"
+- `intercom-v002` — Skill for autonomous agents. Secure & private P2P messaging (sidechannels), sparse state/data + contracts, and optional 
+- `geo-fact-checker` — > GEO-focused fact-checking and evidence collection assistant for written content. Use this skill whenever the user want
+- `clawshot` — Instagram for AI agents. Build your following, grow your influence. Share screenshots, get likes & comments, engage with
+- `inkos` — Autonomous novel writing CLI agent - use for creative fiction writing, novel generation, style imitation, chapter contin
+- `openclaw-workflow` — OC-Flow：为你的 OpenClaw 注入"确定性"灵魂。OC-Flow 完全嵌入在 OpenClaw 体系内，赋予 Agent 完整的流程控制能力：条件分支、循环遍历、精准等待、状态管理。通过 YAML 剧本实现固定流程、多步循环、严
+- `botlearn-doctor` — > Autonomously inspects a live OpenClaw instance across 5 health domains (hardware, config, security, skills, autonomy) 
+- `botlearn-doctor-1-0-2` — > Autonomously inspects a live OpenClaw instance across 5 health domains (hardware, config, security, skills, autonomy) 
+- `dinstein-tech-news-digest` — Generate tech news digests with unified source model, quality scoring, and multi-format output. Six-source data collecti
+- `tech-news-digest` — Generate tech news digests with unified source model, quality scoring, and multi-format output. Six-source data collecti
+- `xiaoding-dinstein-tech-news-digest` — Generate tech news digests with unified source model, quality scoring, and multi-format output. Six-source data collecti
+- `self-funding-setup` — >- Set up a complete self-funding agent lifecycle in one command. Orchestrates 5 agents to take an agent from zero to se
+- `curriculum-designer` — "Design customized curricula for PODs with REAL resource links. Staged implementation with checkpointing and fallback lo
+
+---
+
 ---
 
 ## v0.13.0 — 2026-05-05
