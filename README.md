@@ -511,3 +511,7 @@ MIT — see [LICENSE](LICENSE)
 
 | [`haodf`](skills/haodf/) | 好大夫智能找医生 — symptoms, specialty, location matching |
 | [`health-score-pro`](skills/health-score-pro/) | Comprehensive health management from 10 best-selling health books |
+
+---
+## 🚀 Fleet Skills (theCAMML Custom)
+See [fleet-skills/](./fleet-skills/) for CAMML's curated custom skills (32 skills).
