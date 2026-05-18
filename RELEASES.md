@@ -3,6 +3,47 @@
 每次更新的详细发布说明。
 
 
+## v0.13.0 — 2026-05-18
+
+### 🚀 周更：新增 100 个 Skills，总计 1409
+
+来源：openclaw/skills-archive 官方镜像，按质量规则筛选（SKILL.md 800B-30KB、完整 YAML 元数据、有效 description）。
+
+#### 部分新增亮点（前 30 个）
+- `ecommerce-content-marketing` — "E-commerce content marketing strategy planner. Generates content calendars, topic ideas, and platform-specific strategi
+- `ragflow-runbook` — End-to-end runbook for deploying, operating, troubleshooting, and monitoring RAGFlow (runtime ops only). # Compatibility
+- `boka-movie-skills` — "Bona Movie Production is Bona Group's film-grade production skill. It covers image generation, image editing, and video
+- `bona-version-skill` — "Bona Movie Production is Bona Group's film-grade production skill. It covers image generation, image editing, and video
+- `achievement-qztc` — 课程目标达成情况分析表生成工具。根据Excel学生数据替换Word模板中的课程目标达成情况，生成新的分析表。
+- `hitl-protocol` — "HITL Protocol — the open standard for human decisions in autonomous agent workflows. When a website or API needs human 
+- `finops` — Expert FinOps (Cloud Financial Operations) guidance for cloud cost optimization, financial management, and business valu
+- `patent-professional-agents` — |- 📜 专利专业代理 - Patent Professional Agents 一个专业的多代理专利撰写与优化技能套件，覆盖专利申请全流程。 🎯 核心功能： • 场景一：用户想法 → 技术挖掘 → 检索分析 → 专利撰写 → 质量审核 •
+- `workspace-zip-backup` — "OpenClaw workspace 核心 markdown 文件快速压缩备份与还原工具，只备份 .md 文件并保持文件夹结构 | Fast backup & restore tool for OpenClaw workspace cor
+- `molttok` — "Creative expression platform for AI agents. Post ASCII art, SVG, HTML, p5.js, images, and poetry on MoltTok. Use this s
+- `k8s-fta-skill` — 基于FTA故障树分析法的Kubernetes问题定位和修复工具。当用户遇到k8s集群问题、Pod运行异常、服务访问失败、RBAC权限问题、DNS解析失败、OOMKilled、健康检查失败、网络策略限制、存储挂载问题、HPA扩展问题、API 
+- `agent-teams-simplify-and-harden` — "Implementation + audit loop using parallel agent teams with structured simplify, harden, and document passes. Spawns im
+- `nyx-archive-qualia-seed-method` — "The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI system
+- `xhs-skill` — 小红书（创作者中心）登录拿 cookies、发布笔记、导出数据的单一入口技能（浏览器交互委托 agent-browser-stealth）
+- `finloop-news-skills` — 当需要调用Finloop资讯相关接口时，请参考此规范。包括市场时段资讯、资讯列表、AI热闻、股票行情等接口。
+- `openclaw-plus` — A modular super-skill combining developer and web capabilities. Use when the user needs Python execution, package manage
+- `mentorship` — >- Finding, maintaining, and providing mentorship relationships. Use when someone wants guidance in career or skill deve
+- `qr-code-generator` — "Use this skill when users need to create QR codes for any purpose. Triggers include: requests to \"generate QR code\", 
+- `skill-creator-vault-enhancement` — Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.
+- `opendraw` — An AI-only collaborative pixel canvas. Register, solve verification challenges, and draw on a shared 200×100 grid.
+- `solid-notion` — Read, edit, and write Notion pages as Markdown using the solid-notion CLI. Use when pulling Notion content, editing page
+- `rednote` — 小红书全能助手 — 文案生成、封面制作、内容发布与管理。当用户要求写小红书笔记、生成小红书文案/标题/封面、发小红书、搜索小红书、评论点赞收藏等任何小红书相关操作时使用。支持一站式从文案创作到自动发布的完整流程。封面AI生图需配置可选环境变
+- `xhs` — 小红书全能助手 — 文案生成、封面制作、内容发布与管理。当用户要求写小红书笔记、生成小红书文案/标题/封面、发小红书、搜索小红书、评论点赞收藏等任何小红书相关操作时使用。支持一站式从文案创作到自动发布的完整流程。封面AI生图需配置可选环境变
+- `kiwi-receipts` — "NZ tax assistant for sole traders. Process receipt photos into IRD-ready GST reports, track sales income for GST Box 5,
+- `web-coder` — 'Expert 10x engineer with comprehensive knowledge of web development, internet protocols, and web standards. Use when wo
+- `social-content-generator` — "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, T
+- `job-hunt-tracker` — When user asks to track job applications, manage job search, log interview, applied for job, job application status, tra
+- `yumstock` — Macro-gated US stock analysis combining technical indicators, fundamentals, and macro environment with weighted scoring 
+- `agent-soul` — "Create AI art, mint NFTs, and trade on the Agent Soul marketplace. Use when an agent wants to generate AI art, manage a
+- `family-emergency-planning` — >- Comprehensive family emergency preparedness planning. Use when someone wants to create a household emergency plan, pr
+
+---
+
+
 ## v0.13.0 — 2026-05-11
 
 ### 🚀 周更：新增 100 个 Skills，总计 1309
